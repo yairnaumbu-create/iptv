@@ -19,13 +19,13 @@ http://11.team.ga:80/ch1118/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiY
 http://11.team.ga:80/ch2616/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LzMATUlvIGRmLWHeEAeFNxuNJ63RnsZOuInFRlLzVjNA.dubldot
 
 #EXTINF:-1 tvg-id="Channel9.il" tvg-name="Channel 9" tvg-logo="http://team.ga/images/chIcons/427.png" group-title="Israel",ערוץ 9
-http://11.team.ga:80/ch427/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Jt9oNNn5x1RyRdRrk5DeoMkGh8HH6hS6WnQmH6yRa1Ig.dubldot
+http://cdn.admuspeh.my/8524/video.m3u8?token=6djQpVbSqkXp342B
 
 #EXTINF:-1 tvg-id="Channel11.il" tvg-name="Kan 11" tvg-logo="http://team.ga/images/chIcons/428.png" group-title="Israel",כאן 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Channel12.il" tvg-name="Keshet 12" tvg-logo="http://team.ga/images/chIcons/429.png" group-title="Israel",קשת 12
-http://11.team.ga:80/ch429/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8L7_HrfQkzkGTKqrrvQnxIyJGBxr76krtopd2zqECu3IA.dubldot
+http://cdn.admuspeh.my/8400/video.m3u8?token=6djQpVbSqkXp342B
 
 #EXTINF:-1 tvg-id="Channel13.il" tvg-name="Reshet 13" tvg-logo="http://team.ga/images/chIcons/430.png" group-title="Israel",רשת 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
