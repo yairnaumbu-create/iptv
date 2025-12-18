@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="http://epg.team/tvteam.3.1.xml"
 
-#EXTINF:-1 tvg-id="AruchSdarotHahodiot.il" tvg-name="Aruch Sdarot Hahodiot" tvg-logo="http://team.ga/images/chIcons/2934.png" group-title="Israel",ערוץ סדרות הודיות
+#EXTINF:-1 tvg-id="AruchSdarotHahodiot.il" tvg-name="Aruch Sdarot Hahodiot" tvg-logo="http://team.ga/images/chIcons/2934.png" group-title="Israel",ערוץ סדרות הודיותA
 http://11.team.ga:80/ch2934/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LZZBHuOfQOG_9lSSQw6eEbmlE9vMUgMtqLYKt0rir6kw.dubldot
 
-#EXTINF:-1 tvg-id="AruchSdarotHahodiot2.il" tvg-name="Aruch Sdarot Hahodiot 2" tvg-logo="http://team.ga/images/chIcons/2935.png" group-title="Israel",ערוץ סדרות הודיות 2
+#EXTINF:-1 tvg-id="AruchSdarotHahodiot2.il" tvg-name="Aruch Sdarot Hahodiot 2" tvg-logo="http://team.ga/images/chIcons/2935.png" group-title="Israel",ערוץ סדרות הודיות 2A
 http://11.team.ga:80/ch2935/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LiJoE8tt4Mflm2Ct7RYHZsr-vNg9J19UnPdjc5wRWXBg.dubldot
 
-#EXTINF:-1 tvg-id="AnimalPlanet.il" tvg-name="Animal Planet" tvg-logo="http://team.ga/images/chIcons/2624.png" group-title="Israel",אנימל פלאנט
+#EXTINF:-1 tvg-id="AnimalPlanet.il" tvg-name="Animal Planet" tvg-logo="http://team.ga/images/chIcons/2624.png" group-title="Israel",אנימל פלאנטA
 http://11.team.ga:80/ch2624/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IsWXGtyykYrkfUf8w23mnP38xmTyM2EJBNQOniMaKHnQ.dubldot
 
-#EXTINF:-1 tvg-id="Big.il" tvg-name="Big" tvg-logo="http://team.ga/images/chIcons/2032.png" group-title="Israel",ביג
+#EXTINF:-1 tvg-id="Big.il" tvg-name="Big" tvg-logo="http://team.ga/images/chIcons/2032.png" group-title="Israel",ביגA
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyTV.il" tvg-name="Baby TV" tvg-logo="http://team.ga/images/chIcons/1118.png" group-title="Israel",בייבי TV
