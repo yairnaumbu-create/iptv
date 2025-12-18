@@ -165,8 +165,8 @@ http://11.team.ga:80/ch2627/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiY
 #EXTINF:-1 tvg-id="Fashion.il" tvg-name="Fashion" tvg-logo="http://team.ga/images/chIcons/2642.png" group-title="Israel",פאשן
 http://11.team.ga:80/ch2642/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LEAfX77bKlsDmgZKJRlGgsuCylYH7O6IwbDblXp3ueyA.dubldot
 
-#EXTINF:-1 tvg-id="GoodLifeTV.il" tvg-name="Good Life TV" tvg-logo="http://team.ga/images/chIcons/1141.png" group-title="Israel",גוד לייף
-http://11.team.ga:80/ch1141/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LFsG2f8kUrTVjTFE4QN08EQ6c1ieNJgmWtXcSJ5bKuWw.dubldot
+#EXTINF:-1 tvg-id="GoodLifeTV.il" tvg-name="Good Life TV" tvg-logo="https://m3u.admuspeh.my/icon/Good%20Life%20IL.png" group-title="Israel",גוד לייף
+http://cdn.admuspeh.my/8717/video.m3u8?token=6djQpVbSqkXp342B
 
 #EXTINF:-1 tvg-id="Hop.il" tvg-name="Hop" tvg-logo="http://team.ga/images/chIcons/1154.png" group-title="Israel",הופ
 http://11.team.ga:80/ch1154/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LTGPX9PxdtPkEIMZgs3KuxSO7N-c9zXbNgDoI7XPVp2w.dubldot
