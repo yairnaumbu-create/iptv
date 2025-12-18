@@ -84,8 +84,8 @@ http://11.team.ga:80/ch1162/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiY
 #EXTINF:-1 tvg-id="EChannel.il" tvg-name="E!" tvg-logo="http://team.ga/images/chIcons/1122.png" group-title="Israel",E!
 http://11.team.ga:80/ch1122/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KhXftQImE4GnUSMEJIWHLyewRsljTiZBuTlCEDWotvOg.dubldot
 
-#EXTINF:-1 tvg-id="EgoTotal.il" tvg-name="Ego Total" tvg-logo="http://team.ga/images/chIcons/2498.png" group-title="Israel",אגו טוטאל
-http://11.team.ga:80/ch2498/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8InyHrZrmz9QowUyfqya0FD9-4tCF8YwMEgM8puM6od3w.dubldot
+#EXTINF:-1 tvg-id="EgoTotal.il" tvg-name="Ego Total" tvg-logo="https://m3u.admuspeh.my/icon/Ego%20Total%20IL.png" group-title="Israel",אגו טוטאל
+http://cdn.admuspeh.my/8726/video.m3u8?token=6djQpVbSqkXp342B
 
 #EXTINF:-1 tvg-id="Eurosport1.il" tvg-name="Eurosport 1" tvg-logo="http://team.ga/images/chIcons/2496.png" group-title="Israel",יורוספורט 1
 http://11.team.ga:80/ch2496/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JKbbt0ks4FVUwCgvMavBZ_LV7DIMkDjM874Ydh7sP1Eg.dubldot
