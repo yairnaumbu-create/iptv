@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.team/tvteam.3.1.xml"
 #EXTINF:-1 tvg-id="Channel11.il" tvg-name="Kan 11" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/8d/Kan_11_logo.svg/512px-Kan_11_logo.svg.png" group-title="Israel", כאן 11
-https://example.com/kan11.m3u8
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Channel12.il" tvg-name="Keshet 12" tvg-logo="https://upload.wikimedia.org/wikipedia/he/3/32/Keshet_12_logo.svg" group-title="Israel", קשת 12
 https://example.com/keshet12.m3u8
