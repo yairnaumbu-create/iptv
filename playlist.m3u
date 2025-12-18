@@ -7,8 +7,13 @@ https://example.com/keshet12.m3u8
 
 #EXTINF:-1 tvg-id="Channel13.il" tvg-name="Reshet 13" tvg-logo="https://upload.wikimedia.org/wikipedia/he/5/5c/Reshet_13_logo.svg" group-title="Israel", רשת 13
 https://example.com/reshet13.m3u8
-#EXTINF:-1 tvg-id="Avatar.2009" tvg-name="Avatar (2009)" group-title="Movies", Avatar (2009)
-http://link-to-avatar.mp4
 
-#EXTINF:-1 tvg-id="Joker.2019" tvg-name="Joker (2019)" group-title="Movies", Joker (2019)
-http://link-to-joker.mp4
+#EXTM3U
+
+#EXTINF:-1 
+tvg-id="Inception.2010" 
+tvg-name="Inception (2010)" 
+tvg-logo="https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg" 
+group-title="Movies",
+Inception (2010)
+https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_luaatjdu/format/applehttp/protocol/https/desiredFileName.m3u8
