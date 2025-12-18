@@ -291,9 +291,6 @@ http://11.team.ga:80/ch2609/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiY
 #EXTINF:-1 tvg-id="PartnerSdarot.il" tvg-name="Partner Sdarot" tvg-logo="http://team.ga/images/chIcons/2610.png" group-title="Israel",פרטנר סדרות
 http://11.team.ga:80/ch2610/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I4AJCPk-EyHRg-6x72kDXQiqovoGgka8Ga6HuSWEG5Zw.dubldot
 
-#EXTINF:-1 tvg-id="Reality.il" tvg-name="Reality" tvg-logo="http://team.ga/images/chIcons/1182.png" group-title="Israel",ריאליטי
-http://11.team.ga:80/ch1182/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JRpcYM11FJE59EyniQPbNRby20BFx4n9ldF1H4VkZNyg.dubldot
-
 #EXTINF:-1 tvg-id="Sport1.il" tvg-name="Sport 1" tvg-logo="http://team.ga/images/chIcons/1128.png" group-title="Israel",ספורט 1
 http://11.team.ga:80/ch1128/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LoMHvZuSgBv92SeMNcEC8PyfmEBfMNVPJVv2eT5axwqQ.dubldot
 
