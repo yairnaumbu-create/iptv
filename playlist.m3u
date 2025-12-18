@@ -1,12 +1,424 @@
 #EXTM3U url-tvg="http://epg.team/tvteam.3.1.xml"
-#EXTINF:-1 tvg-id="Channel11.il" tvg-name="Kan 11" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/8d/Kan_11_logo.svg/512px-Kan_11_logo.svg.png" group-title="Israel", כאן 11
+
+#EXTINF:-1 tvg-id="AruchSdarotHahodiot.il" tvg-name="Aruch Sdarot Hahodiot" tvg-logo="http://team.ga/images/chIcons/2934.png" group-title="Israel",ערוץ סדרות הודיות
+http://11.team.ga:80/ch2934/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LZZBHuOfQOG_9lSSQw6eEbmlE9vMUgMtqLYKt0rir6kw.dubldot
+
+#EXTINF:-1 tvg-id="AruchSdarotHahodiot2.il" tvg-name="Aruch Sdarot Hahodiot 2" tvg-logo="http://team.ga/images/chIcons/2935.png" group-title="Israel",ערוץ סדרות הודיות 2
+http://11.team.ga:80/ch2935/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LiJoE8tt4Mflm2Ct7RYHZsr-vNg9J19UnPdjc5wRWXBg.dubldot
+
+#EXTINF:-1 tvg-id="AnimalPlanet.il" tvg-name="Animal Planet" tvg-logo="http://team.ga/images/chIcons/2624.png" group-title="Israel",אנימל פלאנט
+http://11.team.ga:80/ch2624/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IsWXGtyykYrkfUf8w23mnP38xmTyM2EJBNQOniMaKHnQ.dubldot
+
+#EXTINF:-1 tvg-id="Big.il" tvg-name="Big" tvg-logo="http://team.ga/images/chIcons/2032.png" group-title="Israel",ביג
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.il" tvg-name="Baby TV" tvg-logo="http://team.ga/images/chIcons/1118.png" group-title="Israel",בייבי TV
+http://11.team.ga:80/ch1118/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KO61lLtxIAqQfO2my8rTS7ecWmw_2_3Suc7E4iKGJBDQ.dubldot
+
+#EXTINF:-1 tvg-id="Bollywood.il" tvg-name="Bollywood" tvg-logo="http://team.ga/images/chIcons/2616.png" group-title="Israel",בוליווד
+http://11.team.ga:80/ch2616/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LzMATUlvIGRmLWHeEAeFNxuNJ63RnsZOuInFRlLzVjNA.dubldot
+
+#EXTINF:-1 tvg-id="Channel9.il" tvg-name="Channel 9" tvg-logo="http://team.ga/images/chIcons/427.png" group-title="Israel",ערוץ 9
+http://11.team.ga:80/ch427/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Jt9oNNn5x1RyRdRrk5DeoMkGh8HH6hS6WnQmH6yRa1Ig.dubldot
+
+#EXTINF:-1 tvg-id="Channel11.il" tvg-name="Kan 11" tvg-logo="http://team.ga/images/chIcons/428.png" group-title="Israel",כאן 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Channel12.il" tvg-name="Keshet 12" tvg-logo="https://upload.wikimedia.org/wikipedia/he/3/32/Keshet_12_logo.svg" group-title="Israel", קשת 12
-https://example.com/keshet12.m3u8
+#EXTINF:-1 tvg-id="Channel12.il" tvg-name="Keshet 12" tvg-logo="http://team.ga/images/chIcons/429.png" group-title="Israel",קשת 12
+http://11.team.ga:80/ch429/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8L7_HrfQkzkGTKqrrvQnxIyJGBxr76krtopd2zqECu3IA.dubldot
 
-#EXTINF:-1 tvg-id="Channel13.il" tvg-name="Reshet 13" tvg-logo="https://upload.wikimedia.org/wikipedia/he/5/5c/Reshet_13_logo.svg" group-title="Israel", רשת 13
-https://example.com/reshet13.m3u8
+#EXTINF:-1 tvg-id="Channel13.il" tvg-name="Reshet 13" tvg-logo="http://team.ga/images/chIcons/430.png" group-title="Israel",רשת 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
 
-#EXTINF:-1 tvg-id="Miraculous.Movie.2022" tvg-name="Miraculous: Ladybug & Cat Noir – The Movie (2022)" tvg-logo="https://static.wixstatic.com/media/887acc_2ae7eb5b02df479d99d90dd1d4294f6b~mv2.jpg" group-title="סרטים", המופלאה חיפושית וחתול שחור – הסרט (2022)
-https://zn21g5kls-n995.bitchute.com/tIgYaO1XQ5nM/LD3Aa7lLQ0SL.mp4
+#EXTINF:-1 tvg-id="Channel14.il" tvg-name="Channel 14" tvg-logo="http://team.ga/images/chIcons/1119.png" group-title="Israel",ערוץ 14
+https://n-121-6.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="i24News.il" tvg-name="i24 News" tvg-logo="http://team.ga/images/chIcons/2824.png" group-title="Israel",i24 חדשות
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel24.il" tvg-name="Channel 24" tvg-logo="http://team.ga/images/chIcons/1142.png" group-title="Israel",ערוץ 24
+http://11.team.ga:80/ch1142/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KAIC97jS9MyvRcrnUUCkoB6B-iffBOv-KceMJ36VtPXA.dubldot
+
+#EXTINF:-1 tvg-id="CellcomIsrael.il" tvg-name="Cellcom Israel" tvg-logo="http://team.ga/images/chIcons/2499.png" group-title="Israel",סלקום ישראל
+http://11.team.ga:80/ch2499/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Kdyhq0XCZG750GywR8TQLkfL1SzhgCdzK9NjeGJ95rgw.dubldot
+
+#EXTINF:-1 tvg-id="CellcomMoviesDrama.il" tvg-name="Cellcom Movies Drama" tvg-logo="http://team.ga/images/chIcons/2494.png" group-title="Israel",סלקום סרטים דרמה
+http://11.team.ga:80/ch2494/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Lq2Dfcn7MyP4ZVe_HA5wgYOY046Mx1TmHzE3Xhv5Y5aw.dubldot
+
+#EXTINF:-1 tvg-id="CellcomMoviesAction.il" tvg-name="Cellcom Movies Action" tvg-logo="http://team.ga/images/chIcons/2495.png" group-title="Israel",סלקום סרטים אקשן
+http://11.team.ga:80/ch2495/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JtYnN37wI4H6e_RfTEarqfdHix1LvavpfY8DES62r0Rw.dubldot
+
+#EXTINF:-1 tvg-id="CellcomMoviesKids.il" tvg-name="Cellcom Movies Kids" tvg-logo="http://team.ga/images/chIcons/1194.png" group-title="Israel",סלקום סרטים ילדים
+http://11.team.ga:80/ch1194/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JnzayujDQha0oRh-p8lLbo1QvbS-GSXMbFnfZvIMmv0w.dubldot
+
+#EXTINF:-1 tvg-id="CellcomTVShows.il" tvg-name="Cellcom TV Shows" tvg-logo="http://team.ga/images/chIcons/2639.png" group-title="Israel",סלקום סדרות
+http://11.team.ga:80/ch2639/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LKQFwmzGsbcN4h_fT6f4ykDy1lag6p29lJ_qlW_O-5jA.dubldot
+
+#EXTINF:-1 tvg-id="CellcomDoco.il" tvg-name="Cellcom Doco" tvg-logo="http://team.ga/images/chIcons/2640.png" group-title="Israel",סלקום דוקו
+http://11.team.ga:80/ch2640/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I8aRuHvOCSv_YK675PEZwWbqvY7UVPEwCWxuYvh0TLsw.dubldot
+
+#EXTINF:-1 tvg-id="CBSReality.il" tvg-name="CBS Reality" tvg-logo="http://team.ga/images/chIcons/2628.png" group-title="Israel",CBS ריאליטי
+http://11.team.ga:80/ch2628/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J3smVi-NhcEv8iNuoBqonVv3ekaJv8YKAFCTW_EQQ0aw.dubldot
+
+#EXTINF:-1 tvg-id="Discovery.il" tvg-name="Discovery Channel" tvg-logo="http://team.ga/images/chIcons/1120.png" group-title="Israel",דיסקברי
+http://11.team.ga:80/ch1120/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KJ-f_7c_c3PtONqk1_Qj60llZ-LwqbNw9DeTe_QqdCJA.dubldot
+
+#EXTINF:-1 tvg-id="DisneyChannel.il" tvg-name="Disney Channel" tvg-logo="http://team.ga/images/chIcons/1121.png" group-title="Israel",דיסני
+http://11.team.ga:80/ch1121/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LLd86d6vKYdNnQceED5YrH-TESp7p9pg6HNOCYmaKSsA.dubldot
+
+#EXTINF:-1 tvg-id="DisneyJunior.il" tvg-name="Disney Junior" tvg-logo="http://team.ga/images/chIcons/1162.png" group-title="Israel",דיסני ג׳וניור
+http://11.team.ga:80/ch1162/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KTqu04Yt-FLVWmXHELsnTKjQP0QO5-u6lAyqj6evq3ew.dubldot
+
+#EXTINF:-1 tvg-id="EChannel.il" tvg-name="E!" tvg-logo="http://team.ga/images/chIcons/1122.png" group-title="Israel",E!
+http://11.team.ga:80/ch1122/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KhXftQImE4GnUSMEJIWHLyewRsljTiZBuTlCEDWotvOg.dubldot
+
+#EXTINF:-1 tvg-id="EgoTotal.il" tvg-name="Ego Total" tvg-logo="http://team.ga/images/chIcons/2498.png" group-title="Israel",אגו טוטאל
+http://11.team.ga:80/ch2498/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8InyHrZrmz9QowUyfqya0FD9-4tCF8YwMEgM8puM6od3w.dubldot
+
+#EXTINF:-1 tvg-id="Eurosport1.il" tvg-name="Eurosport 1" tvg-logo="http://team.ga/images/chIcons/2496.png" group-title="Israel",יורוספורט 1
+http://11.team.ga:80/ch2496/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JKbbt0ks4FVUwCgvMavBZ_LV7DIMkDjM874Ydh7sP1Eg.dubldot
+
+#EXTINF:-1 tvg-id="Eurosport2.il" tvg-name="Eurosport 2" tvg-logo="http://team.ga/images/chIcons/2497.png" group-title="Israel",יורוספורט 2
+http://11.team.ga:80/ch2497/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Jqb3z1tL8C55bErdAVn0t36eY63LvbRrO8TY7zS6Z6yg.dubldot
+
+#EXTINF:-1 tvg-id="EdgeSport.il" tvg-name="Edge Sport" tvg-logo="http://team.ga/images/chIcons/2629.png" group-title="Israel",אדג׳ ספורט
+http://11.team.ga:80/ch2629/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KoNtSbi8Gd_7lR-UVP3CnyuM9K2X9k3lqkCnOrhmDosA.dubldot
+
+#EXTINF:-1 tvg-id="EretzNehederet.il" tvg-name="Eretz Nehederet" tvg-logo="http://team.ga/images/chIcons/2544.png" group-title="Israel",ארץ נהדרת
+http://11.team.ga:80/ch2544/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KPnPL7Fiw7BSQe-W1VJxWY0ySlbLDxF4DEJHqhRMfiNA.dubldot
+
+#EXTINF:-1 tvg-id="FreeTvDrama.il" tvg-name="Free TV Drama" tvg-logo="http://team.ga/images/chIcons/2539.png" group-title="Israel",פרי TV דרמה
+http://11.team.ga:80/ch2539/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LNZhin4jsRRbxV7azGqqgavMEE9okpb0zrUSvdcL-T-Q.dubldot
+
+#EXTINF:-1 tvg-id="FreeTvComedy.il" tvg-name="Free TV Comedy" tvg-logo="http://team.ga/images/chIcons/2540.png" group-title="Israel",פרי TV קומדיה
+http://11.team.ga:80/ch2540/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KgPjTIqXwNwqyVjaIIR-1daXkri4K7esoniBy4oj_fsQ.dubldot
+
+#EXTINF:-1 tvg-id="FreeTvLifestyle.il" tvg-name="Free TV Lifestyle" tvg-logo="http://team.ga/images/chIcons/2541.png" group-title="Israel",פרי TV לייף סטייל
+http://11.team.ga:80/ch2541/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JuhPgoNBNfjLG-GKFL8B8mghBGUblJwFJLVtAigh7Qeg.dubldot
+
+#EXTINF:-1 tvg-id="FreeTvCooking.il" tvg-name="Free TV Cooking" tvg-logo="http://team.ga/images/chIcons/2542.png" group-title="Israel",פרי TV בישול
+http://11.team.ga:80/ch2542/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KXDjHcZ6GfuEv_k8hnTLwf06ors_qm8hPy17u0iavgXg.dubldot
+
+#EXTINF:-1 tvg-id="FreeTvDoco.il" tvg-name="Free TV Doco" tvg-logo="http://team.ga/images/chIcons/2543.png" group-title="Israel",פרי TV דוקו
+http://11.team.ga:80/ch2543/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I1ooFtulVN-wrFaHd8k5s-ei8nx89BI63lewH7pIkSVQ.dubldot
+
+#EXTINF:-1 tvg-id="FreeTvHatuna.il" tvg-name="Free TV Hatuna" tvg-logo="http://team.ga/images/chIcons/1183.png" group-title="Israel",פרי TV חתונה
+http://11.team.ga:80/ch1183/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KA0_F6hVfSC6Io183sIDVmsqT2k209KdYPnyxQT6D9Rg.dubldot
+
+#EXTINF:-1 tvg-id="FreeTvKaraoke.il" tvg-name="Free TV Karaoke" tvg-logo="http://team.ga/images/chIcons/2086.png" group-title="Israel",פרי TV קריוקי
+http://11.team.ga:80/ch2086/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KP2u9YKlpJriX3xlToBoTPvz25HW_qJWXBo8Zm6z0JCg.dubldot
+
+#EXTINF:-1 tvg-id="FreeTvKohavHaba.il" tvg-name="Free TV Kohav Haba" tvg-logo="http://team.ga/images/chIcons/2087.png" group-title="Israel",פרי TV כוכב הבא
+http://11.team.ga:80/ch2087/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IDZykMA_ZWMkiYQNiWMmMKHapDfIV42tP4h9lvq45QOQ.dubldot
+
+#EXTINF:-1 tvg-id="FreeTvFeelGood.il" tvg-name="Free TV Feel Good" tvg-logo="http://team.ga/images/chIcons/3036.png" group-title="Israel",פרי TV פיל גוד
+http://11.team.ga:80/ch3036/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8L1t4RfCmOqx_zn6yGPtxDqMtWiJQ9S3hGmMJepBabunw.dubldot
+
+#EXTINF:-1 tvg-id="FreeSeriesGlobal.il" tvg-name="Free Series Global" tvg-logo="http://team.ga/images/chIcons/2533.png" group-title="Israel",פרי סדרות גלובל
+http://11.team.ga:80/ch2533/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IPvXJ1DPyvrJK05QMCBe8F2xLnzCjR3ZmyK6_QpNCz4g.dubldot
+
+#EXTINF:-1 tvg-id="FreeMoviesAction.il" tvg-name="Free Movies Action" tvg-logo="http://team.ga/images/chIcons/2537.png" group-title="Israel",פרי סרטים אקשן
+http://11.team.ga:80/ch2537/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KYgvD0moa2kC1QOhKht4sOiMWG9vi55mYFPRn93G-vXA.dubldot
+
+#EXTINF:-1 tvg-id="FreeMoviesComedy.il" tvg-name="Free Movies Comedy" tvg-logo="http://team.ga/images/chIcons/1193.png" group-title="Israel",פרי סרטים קומדיה
+http://11.team.ga:80/ch1193/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LRaxMUuIiRqqICVlCM8rz0KCmy7Dk0sY69pF9xamNb4g.dubldot
+
+#EXTINF:-1 tvg-id="FreeMoviesDrama.il" tvg-name="Free Movies Drama" tvg-logo="http://team.ga/images/chIcons/2534.png" group-title="Israel",פרי סרטים דרמה
+http://11.team.ga:80/ch2534/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8L35tK2If9EWYpDI9wy7DXg0PQOh-GU2sNbWdLZC9_aDg.dubldot
+
+#EXTINF:-1 tvg-id="FreeMoviesHorror.il" tvg-name="Free Movies Horror" tvg-logo="http://team.ga/images/chIcons/2535.png" group-title="Israel",פרי סרטים אימה
+http://11.team.ga:80/ch2535/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JhbKqnns7YbEQv_GTugvndiT9oH9mmHTLlXmgw9pfIVw.dubldot
+
+#EXTINF:-1 tvg-id="FreeMoviesRomantic.il" tvg-name="Free Movies Romantic" tvg-logo="http://team.ga/images/chIcons/2536.png" group-title="Israel",פרי סרטים רומנטי
+http://11.team.ga:80/ch2536/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KHS_aaZSgF94fTL0ld0E9I9EtBF3xUqL3WREBejB2vuw.dubldot
+
+#EXTINF:-1 tvg-id="FreeMoviesFamily.il" tvg-name="Free Movies Family" tvg-logo="http://team.ga/images/chIcons/2617.png" group-title="Israel",פרי סרטים משפחה
+http://11.team.ga:80/ch2617/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LgCJpmqV_u2tpfgMrTS0c9u9n_je7LcHzBEjGTTsIwFA.dubldot
+
+#EXTINF:-1 tvg-id="FreeMovies10Stars.il" tvg-name="Free Movies 10 Stars" tvg-logo="http://team.ga/images/chIcons/3224.png" group-title="Israel",פרי סרטים 10 כוכבים
+http://11.team.ga:80/ch3224/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IAL5J2Z1BCp0cMCVQuMUwCwpDrC08OJlc6E-xIWt3nWw.dubldot
+
+#EXTINF:-1 tvg-id="FreeIsraeliMovies.il" tvg-name="Free Israeli Movies" tvg-logo="http://team.ga/images/chIcons/2538.png" group-title="Israel",פרי סרטים ישראליים
+http://11.team.ga:80/ch2538/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LT6Elf_mQ-g4x4IfyLD4oxiZ_AikzM7v-Ezt5y0xJ-ZA.dubldot
+
+#EXTINF:-1 tvg-id="FoodChannel.il" tvg-name="Food Channel" tvg-logo="http://team.ga/images/chIcons/1124.png" group-title="Israel",ערוץ האוכל
+http://11.team.ga:80/ch1124/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J_H39veBe352ugpI1wyjcrCLNArsmZknp45zgaGK5nVA.dubldot
+
+#EXTINF:-1 tvg-id="Foody.il" tvg-name="Foody" tvg-logo="http://team.ga/images/chIcons/2630.png" group-title="Israel",פודי
+http://11.team.ga:80/ch2630/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KkCfSgE774YrzV1nfOchiFtWD_gi9Q0tOltli5EJuBZw.dubldot
+
+#EXTINF:-1 tvg-id="Fomo.il" tvg-name="Fomo" tvg-logo="http://team.ga/images/chIcons/2627.png" group-title="Israel",פומו
+http://11.team.ga:80/ch2627/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KdoSkwjQ2TokKyHZgZn2lMfhJSvYobPzXlkc7fnBLgyQ.dubldot
+
+#EXTINF:-1 tvg-id="Fashion.il" tvg-name="Fashion" tvg-logo="http://team.ga/images/chIcons/2642.png" group-title="Israel",פאשן
+http://11.team.ga:80/ch2642/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LEAfX77bKlsDmgZKJRlGgsuCylYH7O6IwbDblXp3ueyA.dubldot
+
+#EXTINF:-1 tvg-id="GoodLifeTV.il" tvg-name="Good Life TV" tvg-logo="http://team.ga/images/chIcons/1141.png" group-title="Israel",גוד לייף
+http://11.team.ga:80/ch1141/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LFsG2f8kUrTVjTFE4QN08EQ6c1ieNJgmWtXcSJ5bKuWw.dubldot
+
+#EXTINF:-1 tvg-id="Hop.il" tvg-name="Hop" tvg-logo="http://team.ga/images/chIcons/1154.png" group-title="Israel",הופ
+http://11.team.ga:80/ch1154/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LTGPX9PxdtPkEIMZgs3KuxSO7N-c9zXbNgDoI7XPVp2w.dubldot
+
+#EXTINF:-1 tvg-id="HopIsraeliChildhood.il" tvg-name="Hop Israeli Childhood" tvg-logo="http://team.ga/images/chIcons/2138.png" group-title="Israel",הופ ילדות ישראלית
+http://11.team.ga:80/ch2138/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KZe5XIcBfI-KbU80JM5IEwR9zLcVEXgAyfmCDGW18XvQ.dubldot
+
+#EXTINF:-1 tvg-id="HopPele.il" tvg-name="Hop Pele" tvg-logo="http://team.ga/images/chIcons/2003.png" group-title="Israel",הופ פלא
+http://11.team.ga:80/ch2003/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KV8YSZjxsILm2nfiaANG9vaVsbJ03JyX_a0Q1XqHSfDw.dubldot
+
+#EXTINF:-1 tvg-id="History.il" tvg-name="History" tvg-logo="http://team.ga/images/chIcons/1143.png" group-title="Israel",היסטוריה
+http://11.team.ga:80/ch1143/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KJ-qBEHYsb-DK8P4ZWUu0v8PhT_y9RrbUm521rMOY-Mg.dubldot
+
+#EXTINF:-1 tvg-id="HealthChannel.il" tvg-name="Health Channel" tvg-logo="http://team.ga/images/chIcons/1176.png" group-title="Israel",ערוץ הבריאות
+http://11.team.ga:80/ch1176/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JMnG9oWEHufFB8YHSGlz23LqPTdSqWb1As8H2idBOhDQ.dubldot
+
+#EXTINF:-1 tvg-id="HumorChannel.il" tvg-name="Humor Channel" tvg-logo="http://team.ga/images/chIcons/1178.png" group-title="Israel",ערוץ ההומור
+http://11.team.ga:80/ch1178/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JjXrqvX2znLOeZCkeR5PSlPwuhjFTalEa35Be_-Y8gJg.dubldot
+
+#EXTINF:-1 tvg-id="HotCinema1.il" tvg-name="HOT Cinema 1" tvg-logo="http://team.ga/images/chIcons/1161.png" group-title="Israel",הוט סינמה 1
+http://11.team.ga:80/ch1161/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J6B9mAxIAvZZH3lQpR0SS7Dj0_bSj0N_M6dsIFck_hlQ.dubldot
+
+#EXTINF:-1 tvg-id="HotCinema2.il" tvg-name="HOT Cinema 2" tvg-logo="http://team.ga/images/chIcons/1172.png" group-title="Israel",הוט סינמה 2
+http://11.team.ga:80/ch1172/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KjvJNNo5ZwjAEF-ZQLycpJJ0bWcQqYISlssyAD0xzL5A.dubldot
+
+#EXTINF:-1 tvg-id="HotCinema3.il" tvg-name="HOT Cinema 3" tvg-logo="http://team.ga/images/chIcons/1140.png" group-title="Israel",הוט סינמה 3
+http://11.team.ga:80/ch1140/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LytHyPKo1Ol4mb4l1wDuNkFceJC8YAw-EbUmxY7p0xug.dubldot
+
+#EXTINF:-1 tvg-id="HotCinema4.il" tvg-name="HOT Cinema 4" tvg-logo="http://team.ga/images/chIcons/1192.png" group-title="Israel",הוט סינמה 4
+http://11.team.ga:80/ch1192/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KKjKimty26pshfsyM7b5VZ8X1PWQp6AgQ-It-MtVI8PA.dubldot
+
+#EXTINF:-1 tvg-id="HotCinemaIsraeli.il" tvg-name="HOT Cinema Israeli" tvg-logo="http://team.ga/images/chIcons/1133.png" group-title="Israel",הוט סינמה ישראלי
+http://11.team.ga:80/ch1133/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Kb23YOS8fFvW0HhwCFLIWZHQcc1sLddIZTSfnq60A7UQ.dubldot
+
+#EXTINF:-1 tvg-id="HotCinemaFamily.il" tvg-name="HOT Cinema Family" tvg-logo="http://team.ga/images/chIcons/1153.png" group-title="Israel",הוט סינמה משפחה
+http://11.team.ga:80/ch1153/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JgFQVHZVfXh9NHVFgt8xUmpNa1yplT6wUplSlEjaSZPg.dubldot
+
+#EXTINF:-1 tvg-id="HotZone.il" tvg-name="HOT Zone" tvg-logo="http://team.ga/images/chIcons/1139.png" group-title="Israel",הוט זון
+http://11.team.ga:80/ch1139/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Li_CEOFLycXrCUaxLIunzTCBuOcDDYBHUNcsK3VwC3Ww.dubldot
+
+#EXTINF:-1 tvg-id="Hot3.il" tvg-name="HOT 3" tvg-logo="http://team.ga/images/chIcons/1147.png" group-title="Israel",הוט 3
+http://11.team.ga:80/ch1147/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8L-Gnrtd2acK4dlTnf4LD_DqHvA5w8dJ4hlhjTJ0OiyzQ.dubldot
+
+#EXTINF:-1 tvg-id="Hot8.il" tvg-name="HOT 8" tvg-logo="http://team.ga/images/chIcons/1144.png" group-title="Israel",הוט 8
+http://11.team.ga:80/ch1144/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LDWviTkunoQhBC1YfxKhM130KV2GU8MFRHkz3QGo6DHg.dubldot
+
+#EXTINF:-1 tvg-id="HotBidur.il" tvg-name="HOT Bidur" tvg-logo="http://team.ga/images/chIcons/1163.png" group-title="Israel",הוט בידור
+http://11.team.ga:80/ch1163/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JKTZQ-BnXKTBv3GWa116MAvAGI5-SYIR4zvrAedEd9Ig.dubldot
+
+#EXTINF:-1 tvg-id="HotComedyCentral.il" tvg-name="HOT Comedy Central" tvg-logo="http://team.ga/images/chIcons/1174.png" group-title="Israel",הוט קומדי סנטרל
+http://11.team.ga:80/ch1174/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J_aZClIGmS-scGP3gBssgF2MxagY33Kq-C_THnV-gb4Q.dubldot
+
+#EXTINF:-1 tvg-id="HotReal.il" tvg-name="HOT Real" tvg-logo="http://team.ga/images/chIcons/1173.png" group-title="Israel",הוט ריאל
+http://11.team.ga:80/ch1173/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I4A0fkSZ3MDGYApNZ0Ykc1j3MSXka0t7LrtFU7To3yUg.dubldot
+
+#EXTINF:-1 tvg-id="HotSenior.il" tvg-name="HOT Senior" tvg-logo="http://team.ga/images/chIcons/2613.png" group-title="Israel",הוט סניור
+http://11.team.ga:80/ch2613/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IdPtBiywUYUolj41njZOsWmFMwqJjiMfCECpzPNbMKYw.dubldot
+
+#EXTINF:-1 tvg-id="HotBuzz.il" tvg-name="HOT Buzz" tvg-logo="http://team.ga/images/chIcons/2614.png" group-title="Israel",הוט באז
+http://11.team.ga:80/ch2614/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LTIlxMWLR2UmmVFJrq1xPZwmU2wS9I2BzBBsyGLsC2hQ.dubldot
+
+#EXTINF:-1 tvg-id="HotHBO.il" tvg-name="HOT HBO" tvg-logo="http://team.ga/images/chIcons/1175.png" group-title="Israel",הוט HBO
+http://11.team.ga:80/ch1175/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JpGPridzZ__6w0Y4Agk5ZPNFUO5Nkiv2Y_gvxvcfCPRg.dubldot
+
+#EXTINF:-1 tvg-id="HomePlus.il" tvg-name="Home Plus" tvg-logo="http://team.ga/images/chIcons/2631.png" group-title="Israel",הום פלוס
+http://11.team.ga:80/ch2631/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8ILcXyTjF7bbbkLDm15CWN5n7uD5cay-_beiPdwi-vR0Q.dubldot
+
+#EXTINF:-1 tvg-id="Junior.il" tvg-name="Junior" tvg-logo="http://team.ga/images/chIcons/1184.png" group-title="Israel",ג׳וניור
+http://11.team.ga:80/ch1184/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LN-h-Ifslr0ZVVTexxSxs3og9K8MBXvCIAn0BS0jT9zw.dubldot
+
+#EXTINF:-1 tvg-id="JimJam.il" tvg-name="Jim Jam" tvg-logo="http://team.ga/images/chIcons/2645.png" group-title="Israel",ג׳ים ג׳אם
+http://11.team.ga:80/ch2645/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I34acvNYff9oeczUq1nSFmUFn93ljTy5oQMM-CSK7lFw.dubldot
+
+#EXTINF:-1 tvg-id="KanChinuchit23.il" tvg-name="Kan Chinuchit 23" tvg-logo="http://team.ga/images/chIcons/1171.png" group-title="Israel",כאן חינוכית 23
+http://11.team.ga:80/ch1171/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J76M5uNk-YJCgD-9Z3o_Aql7ze7cxyBhycPxLFP84cfA.dubldot
+
+#EXTINF:-1 tvg-id="Kalkala10.il" tvg-name="Kalkala 10" tvg-logo="http://team.ga/images/chIcons/3134.png" group-title="Israel",כלכלה 10
+http://11.team.ga:80/ch3134/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KQeM9OH6NjulcC7iDxR_rW6K5ZPJxrzhCFjPYAIPAiNA.dubldot
+
+#EXTINF:-1 tvg-id="LoveIsland.il" tvg-name="Love Island" tvg-logo="http://team.ga/images/chIcons/2004.png" group-title="Israel",לאב איילנד
+http://11.team.ga:80/ch2004/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KTddGBrNoS3uUamXh6UzE2rC9xj43dY3DwtiYdW-cucw.dubldot
+
+#EXTINF:-1 tvg-id="Luli.il" tvg-name="Luli" tvg-logo="http://team.ga/images/chIcons/1170.png" group-title="Israel",לולִי
+http://11.team.ga:80/ch1170/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KD_G5CCTKHrFpw8keIUg3WJH64X8ZzLZ5LJ1gKSh62JQ.dubldot
+
+#EXTINF:-1 tvg-id="Logi.il" tvg-name="Logi" tvg-logo="http://team.ga/images/chIcons/2626.png" group-title="Israel",לוגי
+http://11.team.ga:80/ch2626/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JMsYJRTXeDI57M74dYTKb3MPpuD-m05N_Yy6-g--3BCA.dubldot
+
+#EXTINF:-1 tvg-id="MTV.il" tvg-name="MTV" tvg-logo="http://team.ga/images/chIcons/2623.png" group-title="Israel",MTV
+http://11.team.ga:80/ch2623/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LvTqXlA2z6FbDwyjfoB3T4iLKHKi46LLl2ZNu6sa4yyw.dubldot
+
+#EXTINF:-1 tvg-id="Makan33.il" tvg-name="Makan 33" tvg-logo="http://team.ga/images/chIcons/1181.png" group-title="Israel",מכאן 33
+http://11.team.ga:80/ch1181/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KLcgQtg31xq2Qq3naVPcSvTrTvMXBkVzvejoearKxhFA.dubldot
+
+#EXTINF:-1 tvg-id="Nick.il" tvg-name="Nick" tvg-logo="http://team.ga/images/chIcons/1185.png" group-title="Israel",ניקלודיאון
+http://11.team.ga:80/ch1185/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Kdqh0ww0yYzWBFLYxLSAna2dj0J-6ji8cVRRJl1205uw.dubldot
+
+#EXTINF:-1 tvg-id="NickJr.il" tvg-name="Nick Jr" tvg-logo="http://team.ga/images/chIcons/2637.png" group-title="Israel",ניק ג׳וניור
+http://11.team.ga:80/ch2637/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8K_HPAkbD5WufwJthiDb01WZqJY_SM7jVl6y1qvp_aH5Q.dubldot
+
+#EXTINF:-1 tvg-id="NatGeo.il" tvg-name="Nat Geo" tvg-logo="http://team.ga/images/chIcons/1126.png" group-title="Israel",נשיונל ג׳יאוגרפיק
+http://11.team.ga:80/ch1126/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KCDEu2ge48Hq1cMslshuf-_39MzL18xebT31x3uJZZLw.dubldot
+
+#EXTINF:-1 tvg-id="NatGeoWild.il" tvg-name="Nat Geo Wild" tvg-logo="http://team.ga/images/chIcons/1138.png" group-title="Israel",נשיונל ג׳יאוגרפיק וויילד
+http://11.team.ga:80/ch1138/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LwnXOGBM0kj_gPaJ6z36uoiXCl8I52IsWbiuJmy8YIWw.dubldot
+
+#EXTINF:-1 tvg-id="OneDoco.il" tvg-name="ONE Doco" tvg-logo="http://team.ga/images/chIcons/1195.png" group-title="Israel",וואן דוקו
+http://11.team.ga:80/ch1195/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KuoNsQqguCLYBPtocLQjAgKJ71USuNC9cYuqHNDJMx4A.dubldot
+
+#EXTINF:-1 tvg-id="One1.il" tvg-name="ONE 1" tvg-logo="http://team.ga/images/chIcons/1186.png" group-title="Israel",וואן 1
+http://11.team.ga:80/ch1186/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JPXvhSEOszlwSPU81Vy8IdHuTc1YDUxhQlHUZiFGwv7A.dubldot
+
+#EXTINF:-1 tvg-id="One2.il" tvg-name="ONE 2" tvg-logo="http://team.ga/images/chIcons/1145.png" group-title="Israel",וואן 2
+http://11.team.ga:80/ch1145/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IV-5c8e_4MsKkfSBpaSt2xmSnJcyN7NFj0mY_ygk00Tw.dubldot
+
+#EXTINF:-1 tvg-id="PartnerYladim.il" tvg-name="Partner Yladim" tvg-logo="http://team.ga/images/chIcons/2608.png" group-title="Israel",פרטנר ילדים
+http://11.team.ga:80/ch2608/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KJGMKnCfw3-e-FLAlZ6mybcFSPk-gwfeIWVZn91T2r8Q.dubldot
+
+#EXTINF:-1 tvg-id="PartnerSratim.il" tvg-name="Partner Sratim" tvg-logo="http://team.ga/images/chIcons/2609.png" group-title="Israel",פרטנר סרטים
+http://11.team.ga:80/ch2609/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JBdM9ct-RcC8CEyQ9ry_urfJDkbke8RSkEtEO2QFh6xA.dubldot
+
+#EXTINF:-1 tvg-id="PartnerSdarot.il" tvg-name="Partner Sdarot" tvg-logo="http://team.ga/images/chIcons/2610.png" group-title="Israel",פרטנר סדרות
+http://11.team.ga:80/ch2610/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I4AJCPk-EyHRg-6x72kDXQiqovoGgka8Ga6HuSWEG5Zw.dubldot
+
+#EXTINF:-1 tvg-id="Reality.il" tvg-name="Reality" tvg-logo="http://team.ga/images/chIcons/1182.png" group-title="Israel",ריאליטי
+http://11.team.ga:80/ch1182/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JRpcYM11FJE59EyniQPbNRby20BFx4n9ldF1H4VkZNyg.dubldot
+
+#EXTINF:-1 tvg-id="Sport1.il" tvg-name="Sport 1" tvg-logo="http://team.ga/images/chIcons/1128.png" group-title="Israel",ספורט 1
+http://11.team.ga:80/ch1128/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LoMHvZuSgBv92SeMNcEC8PyfmEBfMNVPJVv2eT5axwqQ.dubldot
+
+#EXTINF:-1 tvg-id="Sport2.il" tvg-name="Sport 2" tvg-logo="http://team.ga/images/chIcons/1129.png" group-title="Israel",ספורט 2
+http://11.team.ga:80/ch1129/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IPE7L97mFKy5jOXbh12lPDQ6K9kMWThDNGV39HpN3aUg.dubldot
+
+#EXTINF:-1 tvg-id="Sport3.il" tvg-name="Sport 3" tvg-logo="http://team.ga/images/chIcons/1130.png" group-title="Israel",ספורט 3
+http://11.team.ga:80/ch1130/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Kycb7AMWuaVycIi36cw9LZ8qN04rnnyml1A8dkZvG4AQ.dubldot
+
+#EXTINF:-1 tvg-id="Sport4.il" tvg-name="Sport 4" tvg-logo="http://team.ga/images/chIcons/1131.png" group-title="Israel",ספורט 4
+http://11.team.ga:80/ch1131/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KerHLBfVRrECGEunVtHacM8E5pMo14C2qDwH3pGmRskg.dubldot
+
+#EXTINF:-1 tvg-id="Sport5.il" tvg-name="Sport 5" tvg-logo="http://team.ga/images/chIcons/1132.png" group-title="Israel",ספורט 5
+http://11.team.ga:80/ch1132/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LugX_Mob49iEI04zSly046J-5smwu8-nkWz2fIyLNVAw.dubldot
+
+#EXTINF:-1 tvg-id="Sport54K.il" tvg-name="Sport 5 4K" tvg-logo="http://team.ga/images/chIcons/2211.png" group-title="Israel",ספורט 5 ‏4K
+http://11.team.ga:80/ch2211/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IPbhNrFiLx0dxvZLzFqxKvSdEfDQS8-hG4tVoVcxwbrA.dubldot
+
+#EXTINF:-1 tvg-id="Sport5Live.il" tvg-name="Sport 5 Live" tvg-logo="http://team.ga/images/chIcons/1155.png" group-title="Israel",ספורט 5 לייב
+http://11.team.ga:80/ch1155/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IXwzEAljQ8r_tuy_5n_gh5uowApT6xivuVWVASQk7alQ.dubldot
+
+#EXTINF:-1 tvg-id="Sport5Plus.il" tvg-name="Sport 5 Plus" tvg-logo="http://team.ga/images/chIcons/1134.png" group-title="Israel",ספורט 5 פלוס
+http://11.team.ga:80/ch1134/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LkE2DFIrUSouoZgHEdIxD2wR9db54Dc2pDaSPMsULkLA.dubldot
+
+#EXTINF:-1 tvg-id="Sport5Gold.il" tvg-name="Sport 5 Gold" tvg-logo="http://team.ga/images/chIcons/1135.png" group-title="Israel",ספורט 5 גולד
+http://11.team.ga:80/ch1135/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8K63lmDPmTjUTArO7XD7-OIoDrOTeVojy2q_BB_a_Xfuw.dubldot
+
+#EXTINF:-1 tvg-id="Sport5Stars.il" tvg-name="Sport 5 Stars" tvg-logo="http://team.ga/images/chIcons/1156.png" group-title="Israel",ספורט 5 סטארס
+http://11.team.ga:80/ch1156/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IETq9g7f-FckHQgrHOZ8AC3TVPEPJxGId4Q_hBAZyIkw.dubldot
+
+#EXTINF:-1 tvg-id="SportToGo1.il" tvg-name="Sport TO GO 1" tvg-logo="http://team.ga/images/chIcons/2618.png" group-title="Israel",ספורט TO GO 1
+http://11.team.ga:80/ch2618/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IBfFKkdCgACvxX6tQwMHyk2ngz50yxpiIhsmz-XPdkxQ.dubldot
+
+#EXTINF:-1 tvg-id="SportToGo2.il" tvg-name="Sport TO GO 2" tvg-logo="http://team.ga/images/chIcons/2619.png" group-title="Israel",ספורט TO GO 2
+http://11.team.ga:80/ch2619/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LvF5FBMun3SeqiwQGmgh49InIYJ2ITfddArDDNhWJhwQ.dubldot
+
+#EXTINF:-1 tvg-id="Savri.il" tvg-name="Savri" tvg-logo="http://team.ga/images/chIcons/2545.png" group-title="Israel",סברי
+http://11.team.ga:80/ch2545/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J-Dx-vwhqHFSnjTabTuuKbHS9i-8f7jxI5fM3raQrGQA.dubldot
+
+#EXTINF:-1 tvg-id="StarChannel.il" tvg-name="Star Channel" tvg-logo="http://team.ga/images/chIcons/1167.png" group-title="Israel",סטאר צ׳אנל
+http://11.team.ga:80/ch1167/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KVdK9mXmQzsFq1lGdjz-kWq91M7i28bymANWAZr22X1Q.dubldot
+
+#EXTINF:-1 tvg-id="SpanishDrama1.il" tvg-name="Spanish Drama Channel 1" tvg-logo="http://team.ga/images/chIcons/2641.png" group-title="Israel",דרמה ספרדית 1
+http://11.team.ga:80/ch2641/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JcgWKLPUY8pGtW8oYFzm4Hj7W31uc4zVYJJcbR-0F7Zg.dubldot
+
+#EXTINF:-1 tvg-id="SpanishDrama2.il" tvg-name="Spanish Drama Channel 2" tvg-logo="http://team.ga/images/chIcons/3133.png" group-title="Israel",דרמה ספרדית 2
+http://11.team.ga:80/ch3133/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JGRmsxHLduINcjFZKmzCznT1UGX5H4BPK_srRyxBXmCg.dubldot
+
+#EXTINF:-1 tvg-id="TravelChannel.il" tvg-name="Travel Channel" tvg-logo="http://team.ga/images/chIcons/1136.png" group-title="Israel",ערוץ הטיולים
+http://11.team.ga:80/ch1136/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IbniSCeMaViIItd41Q0J15s_IZgk0xKYHPA7SfULvXnQ.dubldot
+
+#EXTINF:-1 tvg-id="TurkishDramaPlus.il" tvg-name="Turkish Drama Plus" tvg-logo="http://team.ga/images/chIcons/2028.png" group-title="Israel",דרמה טורקית פלוס
+http://11.team.ga:80/ch2028/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LsgUAAjypfeQNY-Yi9m48l0toB3FCYqZGmIHaikNEXOQ.dubldot
+
+#EXTINF:-1 tvg-id="TurkishDrama2.il" tvg-name="Turkish Drama 2" tvg-logo="http://team.ga/images/chIcons/2029.png" group-title="Israel",דרמה טורקית 2
+http://11.team.ga:80/ch2029/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LuKVBo7wSUlmW0-NwpWVMe5E3EYC757MRILDHWo7IwLA.dubldot
+
+#EXTINF:-1 tvg-id="TurkishDrama3.il" tvg-name="Turkish Drama 3" tvg-logo="http://team.ga/images/chIcons/2611.png" group-title="Israel",דרמה טורקית 3
+http://11.team.ga:80/ch2611/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KQwfQ77ZuNbq6BUVFPxwJ11nHmj23fnEZVa0BB5bq6Aw.dubldot
+
+#EXTINF:-1 tvg-id="TeenNick.il" tvg-name="TeenNick" tvg-logo="http://team.ga/images/chIcons/2500.png" group-title="Israel",TeenNick
+http://11.team.ga:80/ch2500/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KLF1WFiMG-rbOqTiNjAMcGkwTomClNE_PsNeiQtZ5CzA.dubldot
+
+#EXTINF:-1 tvg-id="TLC.il" tvg-name="TLC HD" tvg-logo="http://team.ga/images/chIcons/2632.png" group-title="Israel",TLC
+http://11.team.ga:80/ch2632/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JhcjNLHieM7Ml3AhZKqF01Zo3sKMfKdXcGh6vC_Jkz8g.dubldot
+
+#EXTINF:-1 tvg-id="Viva.il" tvg-name="Viva" tvg-logo="http://team.ga/images/chIcons/1189.png" group-title="Israel",ויוה
+http://11.team.ga:80/ch1189/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8L8jK8lPb1XXNI9MzAPQs7ycXesXGS-KIA1CaurSb7y2Q.dubldot
+
+#EXTINF:-1 tvg-id="VivaPlus.il" tvg-name="Viva+" tvg-logo="http://team.ga/images/chIcons/1190.png" group-title="Israel",ויוה פלוס
+http://11.team.ga:80/ch1190/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KCBz-iQuRoOPt20pUKgHmxUGajGL3dQ1DJb5COp0q28g.dubldot
+
+#EXTINF:-1 tvg-id="VivaVintage.il" tvg-name="Viva Vintage" tvg-logo="http://team.ga/images/chIcons/1146.png" group-title="Israel",ויוה וינטג׳
+http://11.team.ga:80/ch1146/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Lb298FN4TNmV9PrY48MBxVffUHt6T1iK870m6fwPz3Bg.dubldot
+
+#EXTINF:-1 tvg-id="VivaPremium.il" tvg-name="Viva Premium HD" tvg-logo="http://team.ga/images/chIcons/1188.png" group-title="Israel",ויוה פרימיום
+http://11.team.ga:80/ch1188/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LFRJQD6uisrLNT0LkmhtrApo6TrGBZ2o2g7kS__dYUmQ.dubldot
+
+#EXTINF:-1 tvg-id="YesMoviesAction.il" tvg-name="YES Movies Action HD" tvg-logo="http://team.ga/images/chIcons/1148.png" group-title="Israel",YES סרטי אקשן
+http://11.team.ga:80/ch1148/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IW_LFTTAlH6ahSToXDOL3X8zte6CfUGYO8ClGJfJuTqg.dubldot
+
+#EXTINF:-1 tvg-id="YesMoviesComedy.il" tvg-name="YES Movies Comedy HD" tvg-logo="http://team.ga/images/chIcons/1149.png" group-title="Israel",YES סרטי קומדיה
+http://11.team.ga:80/ch1149/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JFmlVXgK3trqvHb0aYG12NKDHjij-peLRiuthEQdnlew.dubldot
+
+#EXTINF:-1 tvg-id="YesMoviesDrama.il" tvg-name="YES Movies Drama HD" tvg-logo="http://team.ga/images/chIcons/1150.png" group-title="Israel",YES סרטי דרמה
+http://11.team.ga:80/ch1150/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JIe8rkowMwguVpd4OXea94z-JXrph2E5alFyIsl0F1mg.dubldot
+
+#EXTINF:-1 tvg-id="YesMoviesKids.il" tvg-name="YES Movies Kids HD" tvg-logo="http://team.ga/images/chIcons/1151.png" group-title="Israel",YES סרטי ילדים
+http://11.team.ga:80/ch1151/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IpTX0XZXGJ1qFkItqVHjlQvM3ywMYn1o7aPQbJObRRHQ.dubldot
+
+#EXTINF:-1 tvg-id="YesTVComedy.il" tvg-name="YES TV Comedy HD" tvg-logo="http://team.ga/images/chIcons/1159.png" group-title="Israel",YES קומדי
+http://11.team.ga:80/ch1159/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Lht6HXBKbaPMhSUxUD-FkpKA9RV5f7uc2h3xb6wxE5Rw.dubldot
+
+#EXTINF:-1 tvg-id="YesTVAction.il" tvg-name="YES TV Action HD" tvg-logo="http://team.ga/images/chIcons/1158.png" group-title="Israel",YES אקשן
+http://11.team.ga:80/ch1158/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Iu9ZcNc0wkSYeEjqY3EUV1XGXGkWb3RgsuJKQZrbQOjQ.dubldot
+
+#EXTINF:-1 tvg-id="YesTVDrama.il" tvg-name="YES TV Drama HD" tvg-logo="http://team.ga/images/chIcons/1160.png" group-title="Israel",YES דרמה
+http://11.team.ga:80/ch1160/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JxXkm5kLxivtOMw5b3KBf_VjeCLbZAtF5uAVr41_MQ_g.dubldot
+
+#EXTINF:-1 tvg-id="YesDocu.il" tvg-name="YES Docu HD" tvg-logo="http://team.ga/images/chIcons/1137.png" group-title="Israel",YES דוקו
+http://11.team.ga:80/ch1137/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8K01biLqQj-0-DVoTlWm218jcYd48ljoYQr_OTPoDWwsA.dubldot
+
+#EXTINF:-1 tvg-id="YesIsraeliCinema.il" tvg-name="YES Israeli Cinema HD" tvg-logo="http://team.ga/images/chIcons/2030.png" group-title="Israel",YES קולנוע ישראלי
+http://11.team.ga:80/ch2030/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IsUxoGXkJlwI_XVldZvCruR2zJsP3DfiBHTsrp1lv0zQ.dubldot
+
+#EXTINF:-1 tvg-id="YesPlusDiamonds.il" tvg-name="YES Plus Diamonds HD" tvg-logo="http://team.ga/images/chIcons/3030.png" group-title="Israel",YES פלוס דיימונדס
+http://11.team.ga:80/ch3030/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LNbepbaz0CkuspTuQ8ab2GD8syVG3wwy3O1u71g0UstQ.dubldot
+
+#EXTINF:-1 tvg-id="YesPlusCinema.il" tvg-name="YES Plus Cinema HD" tvg-logo="http://team.ga/images/chIcons/1915.png" group-title="Israel",YES פלוס קולנוע
+http://11.team.ga:80/ch1915/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KvpSUzsPe6dXiX2rUFvVS4i5pw0dwbV_zVTNdbfaSg5w.dubldot
+
+#EXTINF:-1 tvg-id="YesWorldAction.il" tvg-name="YES World Action HD" tvg-logo="http://team.ga/images/chIcons/3174.png" group-title="Israel",YES עולם אקשן
+http://11.team.ga:80/ch3174/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Iw5fvXvJqPLGt2qYY49aPG13dg9RwZi4fGJCFwcAuO2g.dubldot
+
+#EXTINF:-1 tvg-id="YesWorldAction2.il" tvg-name="YES World Action 2 HD" tvg-logo="http://team.ga/images/chIcons/3175.png" group-title="Israel",YES עולם אקשן 2
+http://11.team.ga:80/ch3175/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Kuey4yRPI7HizjDfZPrLkxt-f2cGk3BsQU7xLayL3pDw.dubldot
+
+#EXTINF:-1 tvg-id="YamTihoni.il" tvg-name="Yam Tihoni HD" tvg-logo="http://team.ga/images/chIcons/1191.png" group-title="Israel",ים תיכוני
+http://11.team.ga:80/ch1191/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JvrOjOrCCTXWT6IBP4f0mTYxCC8rXRvMvJVSa5IEIw7A.dubldot
+
+#EXTINF:-1 tvg-id="YamTihoni2.il" tvg-name="Yam Tihoni 2" tvg-logo="http://team.ga/images/chIcons/1164.png" group-title="Israel",ים תיכוני 2
+http://11.team.ga:80/ch1164/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LwUH50ey65bXACDpIduVfRlOoKZCE-4ZASvMfvSVf0hQ.dubldot
+
+#EXTINF:-1 tvg-id="YamTihoniPlus.il" tvg-name="Yam Tihoni Plus" tvg-logo="http://team.ga/images/chIcons/1152.png" group-title="Israel",ים תיכוני פלוס
+http://11.team.ga:80/ch1152/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8L24O2VPPG2eB0QLp4T65rEVoHQisKaJ1SZUg28tRuPEw.dubldot
+
+#EXTINF:-1 tvg-id="Yalduti.il" tvg-name="Yalduti" tvg-logo="http://team.ga/images/chIcons/2646.png" group-title="Israel",ילדותי
+http://11.team.ga:80/ch2646/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8K99QSYv1W9uXHb6pqNZuWBUsZOMTUpSdIX1P7yyQN8Yg.dubldot
+
+#EXTINF:-1 tvg-id="YoYo.il" tvg-name="YoYo" tvg-logo="http://team.ga/images/chIcons/2625.png" group-title="Israel",יויו
+http://11.team.ga:80/ch2625/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IHxKkL62Aw9mCpXul_7Gq0LSekEDPHdwVS_EgtHZjRmQ.dubldot
+
+#EXTINF:-1 tvg-id="Wiz.il" tvg-name="Wiz" tvg-logo="http://team.ga/images/chIcons/2031.png" group-title="Israel",וויז
+http://11.team.ga:80/ch2031/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IBIGs4eL75-OSYH0jhFBgA0VgbURpzFDOeCK7WzDTtUA.dubldot
+
+#EXTINF:-1 tvg-id="Zoom.il" tvg-name="Zoom" tvg-logo="http://team.ga/images/chIcons/2643.png" group-title="Israel",זום
+http://11.team.ga:80/ch2643/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8L3l6DZZCTrgBehoAI6AoXQVfTgTBNoN2Wu_wC2tVCfxw.dubldot
+
+#EXTINF:-1 tvg-id="ZoomToon.il" tvg-name="Zoom Toon HD" tvg-logo="http://team.ga/images/chIcons/2644.png" group-title="Israel",זום טון
+http://11.team.ga:80/ch2644/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IHLchblkr0co9DmUlU63m8EMU2VwY1wW60qsRVETKGlA.dubldot
