@@ -60,6 +60,15 @@ http://11.team.ga:80/ch2639/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiY
 #EXTINF:-1 tvg-id="CellcomDoco.il" tvg-name="Cellcom Doco" tvg-logo="http://team.ga/images/chIcons/2640.png" group-title="Israel",סלקום דוקו
 http://11.team.ga:80/ch2640/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I8aRuHvOCSv_YK675PEZwWbqvY7UVPEwCWxuYvh0TLsw.dubldot
 
+#EXTINF:-1 tvg-id="ComedyChannel.il" tvg-name="Comedy Channel" tvg-logo="https://i.ibb.co/sQd5XDT/13comedy.jpg" group-title="Israel",ערוץ הקומדיות
+https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
+
+#EXTINF:-1 tvg-id="NofeshChannel.il" tvg-name="Nofesh Channel" tvg-logo="https://i.ibb.co/tPh5D2w/13nofesh.jpg" group-title="Israel",ערוץ הנופש
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
+
+#EXTINF:-1 tvg-id="RealityChannel.il" tvg-name="Reality Channel" tvg-logo="https://i.ibb.co/9sX793L/13reality.jpg" group-title="Israel",ערוץ הריאליטי
+https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
+
 #EXTINF:-1 tvg-id="CBSReality.il" tvg-name="CBS Reality" tvg-logo="http://team.ga/images/chIcons/2628.png" group-title="Israel",CBS ריאליטי
 http://11.team.ga:80/ch2628/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J3smVi-NhcEv8iNuoBqonVv3ekaJv8YKAFCTW_EQQ0aw.dubldot
 
