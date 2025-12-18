@@ -39,6 +39,9 @@ https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/53
 #EXTINF:-1 tvg-id="Channel24.il" tvg-name="Channel 24" tvg-logo="http://team.ga/images/chIcons/1142.png" group-title="Israel",ערוץ 24
 http://cdn.admuspeh.my/8371/video.m3u8?token=6djQpVbSqkXp342B
 
+#EXTINF:-1 tvg-id="Knesset.il" tvg-name="Knesset Channel" tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" group-title="Israel",ערוץ הכנסת
+https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CellcomIsrael.il" tvg-name="Cellcom Israel" tvg-logo="http://team.ga/images/chIcons/2499.png" group-title="Israel",סלקום ישראל
 http://11.team.ga:80/ch2499/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Kdyhq0XCZG750GywR8TQLkfL1SzhgCdzK9NjeGJ95rgw.dubldot
 
