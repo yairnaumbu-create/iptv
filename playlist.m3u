@@ -336,13 +336,13 @@ http://s1.paygate.cc:81/8755/video.m3u8?token=6djQpVbSqkXp342B
 #EXTINF:-1 tvg-id="Savri.il" tvg-name="Savri" tvg-logo="http://team.ga/images/chIcons/2545.png" group-title="בידור ודרמה",סברי
 http://11.team.ga:80/ch2545/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J-Dx-vwhqHFSnjTabTuuKbHS9i-8f7jxI5fM3raQrGQA.dubldot
 
-בידור ודרמה
-http://11.team.ga:80/ch1167/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KVdK9mXmQzsFq1lGdjz-kWq91M7i28bymANWAZr22X1Q.dubldot
+#EXTINF:-1 tvg-id="StarChannel.il" tvg-name="Star Channel" group-title="בידור ודרמה",סטאר צ׳אנל
+http://11.team.ga:80/ch1167/mono.m3u8?token=meirginat052
 
 #EXTINF:-1 tvg-id="SpanishDrama1.il" tvg-name="Spanish Drama Channel 1" tvg-logo="http://team.ga/images/chIcons/2641.png" group-title="בידור ודרמה",דרמה ספרדית 1
 http://11.team.ga:80/ch2641/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JcgWKLPUY8pGtW8oYFzm4Hj7W31uc4zVYJJcbR-0F7Zg.dubldot
 
-בידור ודרמה
+#EXTINF:-1 tvg-id="SpanishDrama2.il" tvg-name="Spanish Drama Channel 2" group-title="בידור ודרמה",דרמה ספרדית 2
 http://11.team.ga:80/ch3133/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JGRmsxHLduINcjFZKmzCznT1UGX5H4BPK_srRyxBXmCg.dubldot
 
 #EXTINF:-1 tvg-id="TravelChannel.il" tvg-name="Travel Channel" tvg-logo="http://team.ga/images/chIcons/1136.png" group-title="טבע ודוקו",ערוץ הטיולים
@@ -351,7 +351,7 @@ http://11.team.ga:80/ch1136/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiY
 #EXTINF:-1 tvg-id="TurkishDramaPlus.il" tvg-name="Turkish Drama Plus" tvg-logo="http://team.ga/images/chIcons/2028.png" group-title="בידור ודרמה",דרמה טורקית פלוס
 http://11.team.ga:80/ch2028/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LsgUAAjypfeQNY-Yi9m48l0toB3FCYqZGmIHaikNEXOQ.dubldot
 
-בידור ודרמה
+#EXTINF:-1 tvg-id="TurkishDrama2.il" tvg-name="Turkish Drama 2" group-title="בידור ודרמה",דרמה טורקית 2
 http://11.team.ga:80/ch2029/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LuKVBo7wSUlmW0-NwpWVMe5E3EYC757MRILDHWo7IwLA.dubldot
 
 #EXTINF:-1 tvg-id="TurkishDrama3.il" tvg-name="Turkish Drama 3" tvg-logo="http://team.ga/images/chIcons/2611.png" group-title="בידור ודרמה",דרמה טורקית 3
