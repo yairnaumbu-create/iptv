@@ -399,7 +399,7 @@ http://11.team.ga:80/ch1160/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiY
 #EXTINF:-1 tvg-id="YesDocu.il" tvg-name="YES Docu HD" tvg-logo="http://team.ga/images/chIcons/1137.png" group-title="טבע ודוקו",YES דוקו
 http://11.team.ga:80/ch1137/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8K01biLqQj-0-DVoTlWm218jcYd48ljoYQr_OTPoDWwsA.dubldot
 
-#EXTINF:-1 tvg-id="YesIsraeliCinema.il" tvg-name="YES Israeli Cinema HD" tvg-logo="http://team.ga/images/chIcons/2030.png" group-title="בידור ידרמה",YES קולנוע ישראלי
+#EXTINF:-1 tvg-id="YesIsraeliCinema.il" tvg-name="YES Israeli Cinema HD" tvg-logo="http://team.ga/images/chIcons/2030.png" group-title="בידור ודרמה",YES קולנוע ישראלי
 http://11.team.ga:80/ch2030/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IsUxoGXkJlwI_XVldZvCruR2zJsP3DfiBHTsrp1lv0zQ.dubldot
 
 #EXTINF:-1 tvg-id="YesPlusDiamonds.il" tvg-name="YES Plus Diamonds HD" tvg-logo="http://team.ga/images/chIcons/3030.png" group-title="בידור ודרמה",YES פלוס דיימונדס
