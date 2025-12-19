@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.team/tvteam.3.1.xml"
+#EXTM3U url-tvg="http://epg.team/tvteam.3.1.xml https://iptv-epg.org/files/epg-il.xml"
 
 #EXTINF:-1 tvg-id="AruchSdarotHahodiot.il" tvg-name="Aruch Sdarot Hahodiot" tvg-logo="http://team.ga/images/chIcons/2934.png" group-title="בידור ודרמה",ערוץ סדרות הודיות
 http://11.team.ga:80/ch2934/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LZZBHuOfQOG_9lSSQw6eEbmlE9vMUgMtqLYKt0rir6kw.dubldot
