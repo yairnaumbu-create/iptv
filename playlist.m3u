@@ -14,7 +14,7 @@ http://11.team.ga:80/ch2624/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiY
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyTV.il" tvg-name="Baby TV" tvg-logo="http://team.ga/images/chIcons/1118.png" group-title="ילדים",בייבי TV
-http://11.team.ga:80/ch1118/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KO61lLtxIAqQfO2my8rTS7ecWmw_2_3Suc7E4iKGJBDQ.dubldot
+http://cdn.admuspeh.my/8305/video.m3u8?token=6djQpVbSqkXp342B
 
 #EXTINF:-1 tvg-id="Bollywood.il" tvg-name="Bollywood" tvg-logo="http://team.ga/images/chIcons/2616.png" group-title="בידור ודרמה",בוליווד
 http://11.team.ga:80/ch2616/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LzMATUlvIGRmLWHeEAeFNxuNJ63RnsZOuInFRlLzVjNA.dubldot
@@ -74,7 +74,7 @@ https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/in
 http://11.team.ga:80/ch2628/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J3smVi-NhcEv8iNuoBqonVv3ekaJv8YKAFCTW_EQQ0aw.dubldot
 
 #EXTINF:-1 tvg-id="Discovery.il" tvg-name="Discovery Channel" tvg-logo="http://team.ga/images/chIcons/1120.png" group-title="טבע ודוקו",דיסקברי
-http://11.team.ga:80/ch1120/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KJ-f_7c_c3PtONqk1_Qj60llZ-LwqbNw9DeTe_QqdCJA.dubldot
+http://cdn.admuspeh.my/8718/video.m3u8?token=6djQpVbSqkXp342B
 
 #EXTINF:-1 tvg-id="DisneyChannel.il" tvg-name="Disney Channel" tvg-logo="http://team.ga/images/chIcons/1121.png" group-title="ילדים",דיסני
 http://11.team.ga:80/ch1121/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LLd86d6vKYdNnQceED5YrH-TESp7p9pg6HNOCYmaKSsA.dubldot
