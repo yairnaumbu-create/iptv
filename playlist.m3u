@@ -86,7 +86,7 @@ http://cdn.admuspeh.my/8149/video.m3u8?token=6djQpVbSqkXp342B
 http://cdn.admuspeh.my/8373/video.m3u8?token=6djQpVbSqkXp342B
 
 #EXTINF:-1 tvg-id="EChannel.il" tvg-name="E!" tvg-logo="http://team.ga/images/chIcons/1122.png" group-title="בידור ודרמה",E!
-http://11.team.ga:80/ch1122/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KhXftQImE4GnUSMEJIWHLyewRsljTiZBuTlCEDWotvOg.dubldot
+http://pl.online24.pm/play/1787/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="EgoTotal.il" tvg-name="Ego Total" tvg-logo="https://m3u.admuspeh.my/icon/Ego%20Total%20IL.png" group-title="מוזיקה",אגו טוטאל
 http://cdn.admuspeh.my/8726/video.m3u8?token=6djQpVbSqkXp342B
@@ -98,19 +98,18 @@ http://11.team.ga:80/ch2496/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiY
 http://11.team.ga:80/ch2497/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Jqb3z1tL8C55bErdAVn0t36eY63LvbRrO8TY7zS6Z6yg.dubldot
 
 #EXTINF:-1 tvg-id="EdgeSport.il" tvg-name="Edge Sport" tvg-logo="http://team.ga/images/chIcons/2629.png" group-title="ספורט",אדג׳ ספורט
-http://11.team.ga:80/ch2629/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KoNtSbi8Gd_7lR-UVP3CnyuM9K2X9k3lqkCnOrhmDosA.dubldot
-
+http://pl.online24.pm/play/1788/C0D18CDEC14EAF8/video.m3u8
 #EXTINF:-1 tvg-id="EretzNehederet.il" tvg-name="Eretz Nehederet" tvg-logo="http://team.ga/images/chIcons/2544.png" group-title="בידור ודרמה",ארץ נהדרת
 http://11.team.ga:80/ch2544/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KPnPL7Fiw7BSQe-W1VJxWY0ySlbLDxF4DEJHqhRMfiNA.dubldot
 
 #EXTINF:-1 tvg-id="FreeTvDrama.il" tvg-name="Free TV Drama" tvg-logo="http://team.ga/images/chIcons/2539.png" group-title="בידור ודרמה",פרי TV דרמה
-http://11.team.ga:80/ch2539/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LNZhin4jsRRbxV7azGqqgavMEE9okpb0zrUSvdcL-T-Q.dubldot
+http://pl.online24.pm/play/1794/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="FreeTvComedy.il" tvg-name="Free TV Comedy" tvg-logo="http://team.ga/images/chIcons/2540.png" group-title="בידור ודרמה",פרי TV קומדיה
 http://11.team.ga:80/ch2540/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KgPjTIqXwNwqyVjaIIR-1daXkri4K7esoniBy4oj_fsQ.dubldot
 
 #EXTINF:-1 tvg-id="FreeTvLifestyle.il" tvg-name="Free TV Lifestyle" tvg-logo="http://team.ga/images/chIcons/2541.png" group-title="אוכל ולייף סטייל",פרי TV לייף סטייל
-http://11.team.ga:80/ch2541/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JuhPgoNBNfjLG-GKFL8B8mghBGUblJwFJLVtAigh7Qeg.dubldot
+http://pl.online24.pm/play/1795/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="FreeTvCooking.il" tvg-name="Free TV Cooking" tvg-logo="http://team.ga/images/chIcons/2542.png" group-title="אוכל ולייף סטייל",פרי TV בישול
 http://11.team.ga:80/ch2542/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KXDjHcZ6GfuEv_k8hnTLwf06ors_qm8hPy17u0iavgXg.dubldot
@@ -157,7 +156,9 @@ http://11.team.ga:80/ch3224/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiY
 #EXTINF:-1 tvg-id="FreeIsraeliMovies.il" tvg-name="Free Israeli Movies" tvg-logo="http://team.ga/images/chIcons/2538.png" group-title="בידור ודרמה",פרי סרטים ישראליים
 http://11.team.ga:80/ch2538/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LT6Elf_mQ-g4x4IfyLD4oxiZ_AikzM7v-Ezt5y0xJ-ZA.dubldot
 
-#EXTINF:-1 tvg-id="FoodChannel.il" tvg-name="Food Channel" tvg-logo="http://team.ga/images/chIcons/1124.png" group-title="אוכל ולייף סטייל",ערוץ האוכל
+#EXTINF:-1 tvg-id="FoodChannel.il" tvg-name="Food Channel" tvg-logo="
+
+" group-title="אוכל ולייף סטייל",ערוץ האוכל
 http://cdn.admuspeh.my/8727/video.m3u8?token=6djQpVbSqkXp342B
 
 #EXTINF:-1 tvg-id="Foody.il" tvg-name="Foody" tvg-logo="http://team.ga/images/chIcons/2630.png" group-title="אוכל ולייף סטייל",פודי
@@ -182,7 +183,7 @@ http://11.team.ga:80/ch2138/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiY
 http://11.team.ga:80/ch2003/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KV8YSZjxsILm2nfiaANG9vaVsbJ03JyX_a0Q1XqHSfDw.dubldot
 
 #EXTINF:-1 tvg-id="History.il" tvg-name="History" tvg-logo="http://team.ga/images/chIcons/1143.png" group-title="טבע ודוקו",היסטוריה
-http://11.team.ga:80/ch1143/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KJ-qBEHYsb-DK8P4ZWUu0v8PhT_y9RrbUm521rMOY-Mg.dubldot
+http://pl.online24.pm/play/1783/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="HealthChannel.il" tvg-name="Health Channel" tvg-logo="http://team.ga/images/chIcons/1176.png" group-title="אוכל ולייף סטייל",ערוץ הבריאות
 http://cdn.admuspeh.my/8728/video.m3u8?token=6djQpVbSqkXp342B
@@ -191,49 +192,49 @@ http://cdn.admuspeh.my/8728/video.m3u8?token=6djQpVbSqkXp342B
 http://11.team.ga:80/ch1178/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JjXrqvX2znLOeZCkeR5PSlPwuhjFTalEa35Be_-Y8gJg.dubldot
 
 #EXTINF:-1 tvg-id="HotCinema1.il" tvg-name="HOT Cinema 1" tvg-logo="http://team.ga/images/chIcons/1161.png" group-title="בידור ודרמה",הוט סינמה 1
-http://11.team.ga:80/ch1161/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J6B9mAxIAvZZH3lQpR0SS7Dj0_bSj0N_M6dsIFck_hlQ.dubldot
+http://pl.online24.pm/play/6920/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="HotCinema2.il" tvg-name="HOT Cinema 2" tvg-logo="http://team.ga/images/chIcons/1172.png" group-title="בידור ודרמה",הוט סינמה 2
-http://11.team.ga:80/ch1172/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KjvJNNo5ZwjAEF-ZQLycpJJ0bWcQqYISlssyAD0xzL5A.dubldot
+http://pl.online24.pm/play/6902/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="HotCinema3.il" tvg-name="HOT Cinema 3" tvg-logo="http://team.ga/images/chIcons/1140.png" group-title="בידור ודרמה",הוט סינמה 3
-http://11.team.ga:80/ch1140/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LytHyPKo1Ol4mb4l1wDuNkFceJC8YAw-EbUmxY7p0xug.dubldot
+http://pl.online24.pm/play/6907/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="HotCinema4.il" tvg-name="HOT Cinema 4" tvg-logo="http://team.ga/images/chIcons/1192.png" group-title="בידור ודרמה",הוט סינמה 4
-http://11.team.ga:80/ch1192/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KKjKimty26pshfsyM7b5VZ8X1PWQp6AgQ-It-MtVI8PA.dubldot
+http://pl.online24.pm/play/6905/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="HotCinemaIsraeli.il" tvg-name="HOT Cinema Israeli" tvg-logo="http://team.ga/images/chIcons/1133.png" group-title="בידור ודרמה",הוט סינמה ישראלי
-http://11.team.ga:80/ch1133/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Kb23YOS8fFvW0HhwCFLIWZHQcc1sLddIZTSfnq60A7UQ.dubldot
+http://pl.online24.pm/play/1784/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="HotCinemaFamily.il" tvg-name="HOT Cinema Family" tvg-logo="http://team.ga/images/chIcons/1153.png" group-title="בידור ודרמה",הוט סינמה משפחה
-http://11.team.ga:80/ch1153/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JgFQVHZVfXh9NHVFgt8xUmpNa1yplT6wUplSlEjaSZPg.dubldot
+http://pl.online24.pm/play/6934/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="HotZone.il" tvg-name="HOT Zone" tvg-logo="http://team.ga/images/chIcons/1139.png" group-title="בידור ודרמה",הוט זון
 http://11.team.ga:80/ch1139/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Li_CEOFLycXrCUaxLIunzTCBuOcDDYBHUNcsK3VwC3Ww.dubldot
 
 #EXTINF:-1 tvg-id="Hot3.il" tvg-name="HOT 3" tvg-logo="http://team.ga/images/chIcons/1147.png" group-title="בידור ודרמה",הוט 3
-http://11.team.ga:80/ch1147/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8L-Gnrtd2acK4dlTnf4LD_DqHvA5w8dJ4hlhjTJ0OiyzQ.dubldot
+http://pl.online24.pm/play/1537/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="Hot8.il" tvg-name="HOT 8" tvg-logo="http://team.ga/images/chIcons/1144.png" group-title="בידור ודרמה",הוט 8
-http://11.team.ga:80/ch1144/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LDWviTkunoQhBC1YfxKhM130KV2GU8MFRHkz3QGo6DHg.dubldot
+http://pl.online24.pm/play/1541/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="HotBidur.il" tvg-name="HOT Bidur" tvg-logo="http://team.ga/images/chIcons/1163.png" group-title="בידור ודרמה",הוט בידור
 http://11.team.ga:80/ch1163/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JKTZQ-BnXKTBv3GWa116MAvAGI5-SYIR4zvrAedEd9Ig.dubldot
 
 #EXTINF:-1 tvg-id="HotComedyCentral.il" tvg-name="HOT Comedy Central" tvg-logo="http://team.ga/images/chIcons/1174.png" group-title="בידור ודרמה",הוט קומדי סנטרל
-http://11.team.ga:80/ch1174/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J_aZClIGmS-scGP3gBssgF2MxagY33Kq-C_THnV-gb4Q.dubldot
+http://pl.online24.pm/play/6904/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="HotReal.il" tvg-name="HOT Real" tvg-logo="http://team.ga/images/chIcons/1173.png" group-title="בידור ודרמה",הוט ריאל
 http://11.team.ga:80/ch1173/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I4A0fkSZ3MDGYApNZ0Ykc1j3MSXka0t7LrtFU7To3yUg.dubldot
 
 #EXTINF:-1 tvg-id="HotSenior.il" tvg-name="HOT Senior" tvg-logo="http://team.ga/images/chIcons/2613.png" group-title="בידור ודרמה",הוט סניור
-http://11.team.ga:80/ch2613/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IdPtBiywUYUolj41njZOsWmFMwqJjiMfCECpzPNbMKYw.dubldot
+http://pl.online24.pm/play/6908/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="HotBuzz.il" tvg-name="HOT Buzz" tvg-logo="http://team.ga/images/chIcons/2614.png" group-title="בידור ודרמה",הוט באז
-http://11.team.ga:80/ch2614/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LTIlxMWLR2UmmVFJrq1xPZwmU2wS9I2BzBBsyGLsC2hQ.dubldot
+http://pl.online24.pm/play/6929/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="HotHBO.il" tvg-name="HOT HBO" tvg-logo="http://team.ga/images/chIcons/1175.png" group-title="בידור ודרמה",הוט HBO
-http://11.team.ga:80/ch1175/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JpGPridzZ__6w0Y4Agk5ZPNFUO5Nkiv2Y_gvxvcfCPRg.dubldot
+http://pl.online24.pm/play/6908/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="HomePlus.il" tvg-name="Home Plus" tvg-logo="http://team.ga/images/chIcons/2631.png" group-title="אוכל ולייף סטייל",הום פלוס
 http://cdn.admuspeh.my/8703/video.m3u8?token=6djQpVbSqkXp342B
@@ -356,13 +357,12 @@ http://cdn.admuspeh.my/8721/video.m3u8?token=6djQpVbSqkXp342B
 http://cdn.admuspeh.my/8346/video.m3u8?token=6djQpVbSqkXp342B
 
 #EXTINF:-1 tvg-id="TurkishDrama2.il" tvg-name="Turkish Drama 2" group-title="בידור ודרמה",דרמה טורקית 2
-http://11.team.ga:80/ch2029/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LuKVBo7wSUlmW0-NwpWVMe5E3EYC757MRILDHWo7IwLA.dubldot
+http://pl.online24.pm/play/8142/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="TurkishDrama3.il" tvg-name="Turkish Drama 3" tvg-logo="http://team.ga/images/chIcons/2611.png" group-title="בידור ודרמה",דרמה טורקית 3
-http://11.team.ga:80/ch2611/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KQwfQ77ZuNbq6BUVFPxwJ11nHmj23fnEZVa0BB5bq6Aw.dubldot
+http://pl.online24.pm/play/8139/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="TeenNick.il" tvg-name="TeenNick" tvg-logo="http://team.ga/images/chIcons/2500.png" group-title="ילדים",TeenNick
-
 http://cdn.admuspeh.my/8233/video.m3u8?token=6djQpVbSqkXp342B
 
 #EXTINF:-1 tvg-id="TLC.il" tvg-name="TLC HD" tvg-logo="http://team.ga/images/chIcons/2632.png" group-title="אוכל ולייף סטייל",TLC
@@ -375,16 +375,16 @@ http://cdn.admuspeh.my/8526/video.m3u8?token=6djQpVbSqkXp342B
 http://cdn.admuspeh.my/8372/video.m3u8?token=6djQpVbSqkXp342B
 
 #EXTINF:-1 tvg-id="VivaVintage.il" tvg-name="Viva Vintage" group-title="בידור ודרמה",ויוה וינטג׳
-http://11.team.ga:80/ch1146/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Lb298FN4TNmV9PrY48MBxVffUHt6T1iK870m6fwPz3Bg.dubldot
+http://pl.online24.pm/play/1791/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="VivaPremium.il" tvg-name="Viva Premium HD" tvg-logo="http://team.ga/images/chIcons/1188.png" group-title="בידור ודרמה",ויוה פרימיום
-http://11.team.ga:80/ch1188/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LFRJQD6uisrLNT0LkmhtrApo6TrGBZ2o2g7kS__dYUmQ.dubldot
+http://pl.online24.pm/play/6910/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="YesMoviesAction.il" tvg-name="YES Movies Action HD" tvg-logo="http://team.ga/images/chIcons/1148.png" group-title="בידור ודרמה",YES סרטי אקשן
-http://11.team.ga:80/ch1148/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IW_LFTTAlH6ahSToXDOL3X8zte6CfUGYO8ClGJfJuTqg.dubldot
+http://pl.online24.pm/play/1799/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="YesMoviesComedy.il" tvg-name="YES Movies Comedy HD" tvg-logo="http://team.ga/images/chIcons/1149.png" group-title="בידור ודרמה",YES סרטי קומדיה
-http://11.team.ga:80/ch1149/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JFmlVXgK3trqvHb0aYG12NKDHjij-peLRiuthEQdnlew.dubldot
+http://pl.online24.pm/play/1800/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="YesMoviesDrama.il" tvg-name="YES Movies Drama HD" tvg-logo="http://team.ga/images/chIcons/1150.png" group-title="בידור ודרמה",YES סרטי דרמה
 http://11.team.ga:80/ch1150/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JIe8rkowMwguVpd4OXea94z-JXrph2E5alFyIsl0F1mg.dubldot
@@ -399,7 +399,7 @@ http://11.team.ga:80/ch1159/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiY
 http://11.team.ga:80/ch1158/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Iu9ZcNc0wkSYeEjqY3EUV1XGXGkWb3RgsuJKQZrbQOjQ.dubldot
 
 #EXTINF:-1 tvg-id="YesTVDrama.il" tvg-name="YES TV Drama HD" tvg-logo="http://team.ga/images/chIcons/1160.png" group-title="בידור ודרמה",YES דרמה
-http://11.team.ga:80/ch1160/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JxXkm5kLxivtOMw5b3KBf_VjeCLbZAtF5uAVr41_MQ_g.dubldot
+http://pl.online24.pm/play/1801/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="YesDocu.il" tvg-name="YES Docu HD" tvg-logo="http://team.ga/images/chIcons/1137.png" group-title="טבע ודוקו",YES דוקו
 http://11.team.ga:80/ch1137/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8K01biLqQj-0-DVoTlWm218jcYd48ljoYQr_OTPoDWwsA.dubldot
@@ -408,7 +408,7 @@ http://11.team.ga:80/ch1137/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiY
 http://11.team.ga:80/ch2030/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IsUxoGXkJlwI_XVldZvCruR2zJsP3DfiBHTsrp1lv0zQ.dubldot
 
 #EXTINF:-1 tvg-id="YesPlusDiamonds.il" tvg-name="YES Plus Diamonds HD" tvg-logo="http://team.ga/images/chIcons/3030.png" group-title="בידור ודרמה",YES פלוס דיימונדס
-http://11.team.ga:80/ch3030/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LNbepbaz0CkuspTuQ8ab2GD8syVG3wwy3O1u71g0UstQ.dubldot
+http://pl.online24.pm/play/1803/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="YesPlusCinema.il" tvg-name="YES Plus Cinema HD" tvg-logo="http://team.ga/images/chIcons/1915.png" group-title="בידור ודרמה",YES פלוס קולנוע
 http://11.team.ga:80/ch1915/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KvpSUzsPe6dXiX2rUFvVS4i5pw0dwbV_zVTNdbfaSg5w.dubldot
@@ -426,7 +426,7 @@ http://cdn.admuspeh.my/8123/video.m3u8?token=6djQpVbSqkXp342B
 http://11.team.ga:80/ch1164/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LwUH50ey65bXACDpIduVfRlOoKZCE-4ZASvMfvSVf0hQ.dubldot
 
 #EXTINF:-1 tvg-id="YamTihoniPlus.il" tvg-name="Yam Tihoni Plus" tvg-logo="http://team.ga/images/chIcons/1152.png" group-title="בידור ודרמה",ים תיכוני פלוס
-http://11.team.ga:80/ch1152/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8L24O2VPPG2eB0QLp4T65rEVoHQisKaJ1SZUg28tRuPEw.dubldot
+http://pl.online24.pm/play/6928/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="Yalduti.il" tvg-name="Yalduti" tvg-logo="http://team.ga/images/chIcons/2646.png" group-title="ילדים",ילדותי
 http://11.team.ga:80/ch2646/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8K99QSYv1W9uXHb6pqNZuWBUsZOMTUpSdIX1P7yyQN8Yg.dubldot
@@ -435,10 +435,10 @@ http://11.team.ga:80/ch2646/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiY
 http://11.team.ga:80/ch2625/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IHxKkL62Aw9mCpXul_7Gq0LSekEDPHdwVS_EgtHZjRmQ.dubldot
 
 #EXTINF:-1 tvg-id="Wiz.il" tvg-name="Wiz" tvg-logo="http://team.ga/images/chIcons/2031.png" group-title="ילדים",וויז
-http://11.team.ga:80/ch2031/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IBIGs4eL75-OSYH0jhFBgA0VgbURpzFDOeCK7WzDTtUA.dubldot
+http://pl.online24.pm/play/1789/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="Zoom.il" tvg-name="Zoom" group-title="ילדים",זום
-http://11.team.ga:80/ch2643/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8L3l6DZZCTrgBehoAI6AoXQVfTgTBNoN2Wu_wC2tVCfxw.dubldot
+http://pl.online24.pm/play/1798/C0D18CDEC14EAF8/video.m3u8
 
 #EXTINF:-1 tvg-id="ZoomToon.il" tvg-name="Zoom Toon HD" tvg-logo="http://team.ga/images/chIcons/2644.png" group-title="ילדים",זום טון
-http://11.team.ga:80/ch2644/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IHLchblkr0co9DmUlU63m8EMU2VwY1wW60qsRVETKGlA.dubldot
+http://pl.online24.pm/play/1798/C0D18CDEC14EAF8/video.m3u8
