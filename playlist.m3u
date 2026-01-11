@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="http://epg.team/tvteam.3.1.xm
+#EXTM3U url-tvg="http://epg.team/tvteam.3.1.xml
 
 #EXTINF:-1 tvg-id="AruchSdarotHahodiot.il" tvg-name="Aruch Sdarot Hahodiot" tvg-logo="http://team.ga/images/chIcons/2934.png" group-title="בידור ודרמה",ערוץ סדרות הודיות
 https://raw.githubusercontent.com/yair501/5plus/main/sport5_combined.m3u8
