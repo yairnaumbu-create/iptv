@@ -285,7 +285,7 @@ http://11.team.ga:80/ch1195/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiY
 http://cdn.admuspeh.my/8704/video.m3u8?token=6djQpVbSqkXp342B
 
 #EXTINF:-1 tvg-id="One2.il" tvg-name="ONE 2" tvg-logo="http://team.ga/images/chIcons/1145.png" group-title="ספורט",וואן 2
-http://cdn.admuspeh.my/8724/video.m3u8?token=6djQpVbSqkXp342B
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_2_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=60000
 
 #EXTINF:-1 tvg-id="PartnerYladim.il" tvg-name="Partner Yladim" tvg-logo="http://team.ga/images/chIcons/2608.png" group-title="ילדים",פרטנר ילדים
 http://11.team.ga:80/ch2608/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KJGMKnCfw3-e-FLAlZ6mybcFSPk-gwfeIWVZn91T2r8Q.dubldot
