@@ -92,7 +92,7 @@ https://cors-anywhere.fly.dev/http://185.132.134.159/hot3/index.m3u8
 https://kan23.media.kan.org.il/hls/live/2024691-b/2024691/source1_4k/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Channel24.il" tvg-name="Channel 24" tvg-logo="https://www.yes.co.il/media/t2kh1luo/24_channel24-yesplus-white.png?quality=80" group-title="מוזיקה",ערוץ 24
-URL_HERE
+https://cors-anywhere.fly.dev/http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/115072
 
 #EXTINF:-1 tvg-id="Kalkala10.il" tvg-name="Kalkala 10" tvg-logo="https://www.yes.co.il/media/ytsdz2jr/10_calcala10_web.png?quality=80" group-title="כלכלה",ערוץ 10
 https://n-121-6.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
