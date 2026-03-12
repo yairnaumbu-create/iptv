@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.team/tvteam.3.1.xml,https://iptv-org.github.io/epg/guides/il.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/gb.xml"
 
 #EXTINF:-1 tvg-id="Channel11.il" tvg-name="Kan 11" tvg-logo="https://www.yes.co.il/media/cmjhsfuq/11_kan.png?quality=80" group-title="חדשות",כאן 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
